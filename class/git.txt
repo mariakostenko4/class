@@ -1,0 +1,7 @@
+GIT = verzovací system
+
+repozitář = repozitory
+
+commit = snapshot, verze kodu v urcity cas
+
+GITHUB 
